@@ -1,0 +1,20 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "description": "This is the description for product 1",
+        "image": "https://via.placeholder.com/150x150",
+        "price": 19.99,
+        "category": "Category 1"
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "description": "This is the description for product 2",
+        "image": "https://via.placeholder.com/150x150",
+        "price": 29.99,
+        "category": "Category 2"
+      }
+    ]
+  }
